@@ -1,6 +1,6 @@
 <div align="center">
 
-# john rainier valencia
+# yooo 👋 i am jear !
 
 **CS / Software Engineering @ FEU Tech · class of 2027**
 
@@ -16,7 +16,7 @@
 
 3rd year CS student, Dean's List 8/9 terms, looking for internships. I mostly do full-stack web dev and have recently gotten into blockchain and ML through competitions and our thesis. I also ran a lot of the backend operations for our university's ACM chapter — Notion workspaces, event logistics, the secretariat stuff.
 
-Based in Metro Manila. Open to remote work.
+Based in Metro Manila. Remote-first but open to hybrid and on-site opportunities.
 
 ---
 
