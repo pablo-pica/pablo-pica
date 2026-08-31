@@ -107,41 +107,37 @@ Private voting system on Midnight. Voters cast ballots without revealing identit
 
 ---
 
-### stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pablo-pica&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-pica&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-pica&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-</div>
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### certifications
 
-| Credential | Issuer | Year |
+| Credential | Issuer | |
 |---|---|---|
 | IT Specialist — Python | Certiport / Pearson VUE | 2025 |
-| TOPCIT Level 3 (Score: 412) | National ICT Competency Assessment | 2025 |
-| Project Management Ready | Project Management Institute | 2026 |
-| Google AI Professional Certificate (8 courses) | Coursera | 2026 |
+| TOPCIT Level 3 (412) | National ICT Assessment | 2025 |
+| Project Management Ready | PMI | 2026 |
+| Google AI Professional (8 courses) | Coursera | 2026 |
 | Foundations of Git | GitKraken | 2025 |
 
----
+</td>
+<td width="50%" valign="top">
 
-### other stuff
+### leadership & recognition
 
-- **Associate Secretary**, FEU Tech ACM Student Chapter (2025–2026) — set up the org's Notion workspace from scratch, served 130+ members across 12 committees
-- **Co-Event Head**, ACM Core VerteX — two-day event, 373 attendees day one (target was 200), 4.62/5 and 4.79/5 evaluation ratings
-- **Top Performing Student** three years straight (best: Rank 11)
-- ACM chapter won **Outstanding Student Organization** + 3 Best Activity awards during my officer year
+- **Associate Secretary**, FEU Tech ACM (2025–2026) — built org Notion workspace for 130+ members, 12 committees
+- **Co-Event Head**, ACM Core VerteX — 373 attendees (target: 200), 4.79/5 eval rating
+- **Dean's List** 8/9 terms · **Top Performing Student** 3 yrs (best: Rank 11)
+- ACM won **Outstanding Student Org** + 3 Best Activity awards during my year
 
----
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-pica&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablo-pica&style=flat-square&color=58A6FF)
 
