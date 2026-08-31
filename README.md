@@ -1,8 +1,8 @@
 <div align="center">
 
-# yo, i'm john 👋
+# john rainier valencia
 
-**`software eng student / builder / occasional over-engineer`**
+**CS / Software Engineering @ FEU Tech · class of 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-rainier-valencia-3714322a2/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnrainiervalencia+portfolio@gmail.com)
@@ -12,43 +12,45 @@
 
 ---
 
-### 🧠 the tldr
+### about me
 
-CS student at **FEU Institute of Technology** (Software Engineering specialization, graduating 2027). I like building things that actually get used — event platforms that handle real registrations, assistive tech for real people, blockchain apps for real problems. Dean's List for 8 out of 9 terms because apparently I also like studying.
+3rd year CS student, Dean's List 8/9 terms, looking for internships. I mostly do full-stack web dev and have recently gotten into blockchain and ML through competitions and our thesis. I also ran a lot of the backend operations for our university's ACM chapter — Notion workspaces, event logistics, the secretariat stuff.
 
-Currently open to **internship opportunities** — remote preferred, but flexible.
+Based in Metro Manila. Open to remote work.
 
 ---
 
-### 🔥 things i've built
+### projects
 
 <table>
 <tr>
 <td width="50%">
 
 **🎫 FIT ACM Secretariat Portal**
-> Full-stack event management platform — started as a one-off registration portal for CS Night 2026, ended up becoming the org's permanent infrastructure.
+
+Registration + check-in system I built solo for our org's CS Night 2026. After the event went well I expanded it into a reusable multi-event platform with RBAC, finance verification, and data retention.
 
 `Next.js 16` `React 19` `Supabase` `TypeScript` `Nodemailer`
 
-- 📊 188 registrations, 179 QR check-ins
-- 📧 98.4% automated email delivery rate
-- 🧪 138 unit tests + 14 E2E tests + load tested to 200 concurrent users
-- 📖 Full operations playbook for officer handover
-- 🏆 Supported CS Night → awarded **Best Activity (Non-Academic)** at FEU Tech
+- 188 registrations, 179 QR check-ins on event day
+- 98.4% email delivery (358/364)
+- 138 unit tests, 14 E2E tests, load tested at 200 concurrent
+- Wrote an operations playbook so the next batch of officers can actually run it
+- CS Night won **Best Activity (Non-Academic)** at FEU Tech
 
 </td>
 <td width="50%">
 
 **🔊 Tinig-Turo** *(Thesis)*
-> Real-time sound localization & classification Android app for Deaf and Hard-of-Hearing users. Our thesis. It works. We proved it.
+
+Thesis project — Android app that localizes and classifies sounds in real time for Deaf and Hard-of-Hearing users. GCC-PHAT handles direction estimation, YAMNet handles classification, confidence fusion ties them together.
 
 `Kotlin` `Android AudioRecord API` `GCC-PHAT` `YAMNet` `TensorFlow Lite`
 
-- 🎯 15° mean localization error, 99.8% recall under controlled conditions
-- 📱 521-class audio classification via YAMNet
-- ✅ ISO/IEC 25010 quality score: **4.24/5** across 20 evaluators
-- 🏅 **Best Poster, 3rd Place** — FEU Tech Research Colloquium 2026
+- 15° mean localization error (1.48° in controlled conditions)
+- 99.8% recall under anechoic setup
+- 4.24/5 ISO/IEC 25010 score from 20 evaluators (DHH individuals, coordinators, experts)
+- **Best Poster, 3rd Place** at FEU Tech Research Colloquium 2026
 
 </td>
 </tr>
@@ -56,25 +58,23 @@ Currently open to **internship opportunities** — remote preferred, but flexibl
 <td width="50%">
 
 **🌊 Aethyr**
-> Typhoon relief distribution platform on Stellar. Token-backed campaign pools, merchant voucher redemption, verifier payouts — accountable disaster relief on-chain.
+
+Disaster relief distribution on Stellar testnet. Donors fund campaign pools, affected individuals redeem vouchers from verified merchants, independent verifiers approve payouts. Built solo for a buildathon.
 
 `Stellar SDK` `Soroban Smart Contracts` `Next.js`
 
-- 🏗️ Sole developer, built end to end
-- 🟢 Reached **Green Belt (Level 4)** in Stellar Journey to Mastery Builder Challenge
-- 💰 $20,000 prize pool competition
+- **Green Belt / Level 4** — Stellar Journey to Mastery ($20k prize pool)
 
 </td>
 <td width="50%">
 
 **🗳️ Suffra**
-> Anonymous voting on Midnight blockchain. Ballots stay private, tallies stay verifiable. Zero-knowledge proofs doing what they were meant to do.
+
+Private voting system on Midnight. Voters cast ballots without revealing identity or choices, but final tallies are still cryptographically verifiable. Built solo for another buildathon.
 
 `Midnight` `Compact` `Zero-Knowledge Proofs`
 
-- 🏗️ Sole developer
-- 🌙 Reached **Waxing Gibbous (Level 4)** in New Moon to Full Builder Challenge
-- 💰 $8,000 prize pool competition
+- **Waxing Gibbous / Level 4** — New Moon to Full ($8k prize pool)
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Currently open to **internship opportunities** — remote preferred, but flexibl
 
 ---
 
-### 🛠️ tech i work with
+### tech
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Currently open to **internship opportunities** — remote preferred, but flexibl
 
 ---
 
-### 📊 github stats
+### stats
 
 <div align="center">
 
@@ -120,30 +120,28 @@ Currently open to **internship opportunities** — remote preferred, but flexibl
 
 ---
 
-### 🏅 credentials that aren't just udemy certificates
+### certifications
 
 | Credential | Issuer | Year |
 |---|---|---|
-| 🐍 IT Specialist — Python | Certiport / Pearson VUE | 2025 |
-| 📊 TOPCIT Level 3 (Score: 412) | National ICT Competency Assessment | 2025 |
-| 📋 Project Management Ready | Project Management Institute | 2026 |
-| 🤖 Google AI Professional Certificate | Coursera (8 courses) | 2026 |
-| 🔀 Foundations of Git | GitKraken | 2025 |
+| IT Specialist — Python | Certiport / Pearson VUE | 2025 |
+| TOPCIT Level 3 (Score: 412) | National ICT Competency Assessment | 2025 |
+| Project Management Ready | Project Management Institute | 2026 |
+| Google AI Professional Certificate (8 courses) | Coursera | 2026 |
+| Foundations of Git | GitKraken | 2025 |
 
 ---
 
-### 🎪 outside of code
+### other stuff
 
-- 🏢 **Associate Secretary** @ FEU Tech ACM Student Chapter — built their entire Notion workspace from scratch (130+ users, 12 committees, relational databases, the whole thing)
-- 🎤 **Co-headed ACM Core VerteX** — 373 attendees showed up on day one, we only planned for 200
-- 📚 **Dean's List** 8/9 terms + **Top Performing Student** 3 years running
-- 🏆 Part of the team when ACM won **Outstanding Student Organization** + 3 Best Activity awards
+- **Associate Secretary**, FEU Tech ACM Student Chapter (2025–2026) — set up the org's Notion workspace from scratch, served 130+ members across 12 committees
+- **Co-Event Head**, ACM Core VerteX — two-day event, 373 attendees day one (target was 200), 4.62/5 and 4.79/5 evaluation ratings
+- **Top Performing Student** three years straight (best: Rank 11)
+- ACM chapter won **Outstanding Student Organization** + 3 Best Activity awards during my officer year
 
 ---
 
 <div align="center">
-
-*"i'll probably over-engineer your hello world app and add a full test suite"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablo-pica&style=flat-square&color=58A6FF)
 
